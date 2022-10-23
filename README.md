@@ -116,7 +116,7 @@ Para verificar que el trabajo se haya activado y ejecutado correctamente, vaya a
 
 ## **Bibliografía**
 
-- __[Youtube - Chainlink Networks en Kaleido](https://www.youtube.com/watch?v=fgccjdFqPZA&t=533s)__
+- __[Youtube - Chainlink Networks en Kaleido](https://www.youtube.com/watch?v=qYzTmRj_Wwg)__
 
 - __[Guía - Introducción a ChainLink](https://docs.kaleido.io/kaleido-services/3rd-party-services/chainlink/)__
 
