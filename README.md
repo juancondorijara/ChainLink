@@ -17,9 +17,9 @@ Antes de ejecutar los ejemplos, asegúrese de que las siguientes herramientas es
 
 #### Aquí hay una descripción general de los pasos.
 
-Cree un nodo Ethereum y un nodo Chainlink en su entorno Kaleido.
-Cree un trabajo en el nodo Chainlink.
-Establezca 4 `env` envvariables para conectar sus entornos:
+1. Cree un nodo Ethereum y un nodo Chainlink en su entorno Kaleido.
+2. Cree un trabajo en el nodo Chainlink.
+3. Establezca 4 `env` envvariables para conectar sus entornos:
 
 ```
 JOB_ID
