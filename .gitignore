@@ -1,0 +1,16 @@
+# Logs
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency or build-generated directories
+v0.4/node_modules/
+v0.4/package-lock.json
+v0.4/build/
+v0.5/node_modules/
+v0.5/package-lock.json
+v0.5/build/
