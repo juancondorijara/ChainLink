@@ -13,6 +13,10 @@ Antes de ejecutar los ejemplos, asegúrese de que las siguientes herramientas es
 - __[node.js](https://nodejs.org/en/download/package-manager/)__
 - __[truffle](https://www.trufflesuite.com/docs/truffle/getting-started/installation)__
 
+Registrarse en kaleido:
+
+- __[kaleido](https://console.kaleido.io/login)__
+
 ## Prueba de los ejemplos
 
 #### Aquí hay una descripción general de los pasos.
@@ -110,6 +114,14 @@ Compiling your contracts...
 
 Para verificar que el trabajo se haya activado y ejecutado correctamente, vaya a la interfaz de usuario del operador de Chainlink y verifique las entradas de Ejecuciones del trabajo. Una ejecución exitosa debe tener un estado de `Complete`.
 
-¡Felicidades! ¡Ha ejecutado con éxito la aplicación de ejemplo de Chainlink! Para obtener más detalles sobre la integración de Chainlink en su aplicación, visite el repositorio de la [Kaleido Samples Gallery](https://github.com/kaleido-io/kaleido-samples-gallery).
+## **Bibliografía**
 
-¿Tiene algún comentario sobre cómo se puede mejorar aún más el servicio Chainlink en Kaleido? O si su proyecto necesita hablar con el mundo exterior a partir de sus contratos inteligentes y desea comprender mejor cómo Chainlink puede ayudarlo, no dude en contactar a support@kaleido.io.
+- __[Youtube - Chainlink Networks en Kaleido](https://www.youtube.com/watch?v=fgccjdFqPZA&t=533s)__
+
+- __[Guía - Introducción a ChainLink](https://docs.kaleido.io/kaleido-services/3rd-party-services/chainlink/)__
+
+- __[Guía - Haga que Ethereum funcione en minutos](https://docs.kaleido.io/using-kaleido/quick-start-ethereum/)__
+
+- __[Guía - Cree su nueva Ethereum Blockchain](https://docs.kaleido.io/using-kaleido/quick-start-ethereum/first-blockchain/)__
+
+- __[Guía - Emita su primera Transacción Ethereum](https://docs.kaleido.io/using-kaleido/quick-start-ethereum/first-ethereum/)__
