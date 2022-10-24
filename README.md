@@ -25,7 +25,7 @@ Registrarse en kaleido:
 2. Cree un trabajo en el nodo Chainlink.
 3. Establezca 4 `env` envvariables para conectar sus entornos:
 
-```
+```       
 JOB_ID
 ETH_URL
 LINK_ADDRESS
